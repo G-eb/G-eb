@@ -6,11 +6,6 @@
 - ⚡ I currently own a discord server with over 15,000 members.
 - ⚡ Im proud to say I have over 2,000 pending friend requests on discord.
 
-### Owl:
-[<img align="left" alt="Owl On Discord" width="22px" src="https://cdn.discordapp.com/attachments/868617206542512169/868893246594629672/87YJrVxt.jpg" />][discord]
-[<img align="left" alt="Buy Owl" width="22px" src="https://cdn.discordapp.com/attachments/868617206542512169/868893246594629672/87YJrVxt.jpg" />][sellix]
-[<img align="left" alt="Owl On YouTube" width="22px" src="https://cdn.discordapp.com/attachments/868617206542512169/868893246594629672/87YJrVxt.jpg" />][youtube]
-
 </index>
 ### Tools I Have Made:
 
