@@ -7,7 +7,7 @@
 - ⚡ Im proud to say I have over 2,000 pending friend requests on discord.
 
 </index>
-### Tools I Have Made:
+## Tools I Have Made:
 
 - ⚡ A discord raid bot
 - ⚡ A discord mass dm bot
