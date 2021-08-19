@@ -2,7 +2,7 @@
 Im Geb, a python developer
 
 ## Languages I use
-<img align="left" alt="Python" width="26px" src="https://i.imgur.com/ml09ccU.png"/>
+<img align="left" alt="Python" width="26px" src="https://i.imgur.com/ml09ccU.png"/> (python)
 
 ## Profile info
 ![Profile views](https://gpvc.arturio.dev/ItzGeb)
