@@ -1,7 +1,3 @@
-### Hi there, im Geb 👋
-
-## I'm a Python developer, who mainly developes discord bots.
-
-- ⚡ Im Currently Working On Geb Bot, which is my main project right now.
-- ⚡ I currently own a discord server with over 15,000 members.
-- ⚡ Im proud to say I have over 2,000 pending friend requests on discord.
+<a href="https://discord.com/users/660563979684544513">
+<img src="https://discord.c99.nl/widget/theme-1/500315184510795819.png" alt="Geb#1234 ( 660563979684544513 )"/>
+</a>
