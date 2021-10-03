@@ -16,7 +16,7 @@ I am **Geb**, I like to use discord and I sometimes play games. I mainly code in
 
 <div>
 <img align="left" alt="Python" width="26px" src="https://i.imgur.com/ml09ccU.png"/>
-<img align="left" alt="Py-Cord" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpythonrepo.com%2Frepo%2FPycord-Development-pycord&psig=AOvVaw2pl41A-q3zC9nnHYYFTuBn&ust=1633345165759000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCLCJroSLrvMCFQAAAAAdAAAAABAD"/>
+<img align="left" alt="Py-Cord" width="26px" src="https://avatars.githubusercontent.com/u/89700626?v=4D"/>
 <img align="left" alt="Discord.js" width="26px" src="https://cdn.discordapp.com/emojis/851461195554619442.png?v=1.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://i.imgur.com/3u1wzwE.png"/> 
 </div>
