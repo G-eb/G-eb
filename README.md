@@ -11,6 +11,7 @@ Im Geb, a python developer
 <img src="https://discord.c99.nl/widget/theme-1/456857241593708554.png" alt="Geb#1234 ( 660563979684544513 )"/>
 </a>
 ![Profile views](https://gpvc.arturio.dev/ItzGeb)
+</a>
 
 ## Main
 <a href="https://discord.com/users/660563979684544513">
