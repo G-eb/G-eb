@@ -22,3 +22,9 @@ I am **Geb**, I like to use discord and I sometimes play games. I mainly code in
 </div>
 
 ---
+
+## Contact Me <img src= "https://cdn.discordapp.com/emojis/894177209865076787.png?size=80" alt='project' width="20px">
+
+<a href="https://discord.com/users/456857241593708554">
+<img src="https://discord.c99.nl/widget/theme-1/456857241593708554.png" alt="Geb#0420 ( 456857241593708554 )"/>
+</a>
