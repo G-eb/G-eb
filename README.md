@@ -24,7 +24,7 @@ I am **Geb**, I like to use discord and I sometimes play games. I mainly code in
 </div>
 </div>
 </div>
-
+---
 
 ## Contact Me <img src= "https://cdn.discordapp.com/emojis/894177209865076787.png?size=80" alt='project' width="20px">
 
