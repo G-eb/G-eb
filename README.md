@@ -8,9 +8,7 @@ Im Geb, a python developer
 
 ## Personal
 <a href="https://discord.com/users/456857241593708554">
-<img src="https://discord.c99.nl/widget/theme-1/456857241593708554.png" alt="Geb#1234 ( 660563979684544513 )"/>
-</a>
-![Profile views](https://gpvc.arturio.dev/ItzGeb)
+<img src="https://discord.c99.nl/widget/theme-1/456857241593708554.png" alt="Geb#1234 ( 660563979684544513 )"/>  
 </a>
 
 ## Main
