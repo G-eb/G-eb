@@ -7,6 +7,7 @@ I am **Geb**, I like to use discord and I sometimes play games. I mainly code in
 ## My Stats <img src= "https://cdn.discordapp.com/emojis/894175687878017055.png?size=80" alt='stats' width="20px">
 
 ![Profile views](https://gpvc.arturio.dev/ItzGeb)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ItzGeb.ItzGeb)
 
 [![Geb's Stats](https://github-readme-stats.vercel.app/api?username=Geb420&show_icons=true&theme=dracula)](https://github.com/Geb420/github-readme-stats)
 
