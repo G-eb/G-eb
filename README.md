@@ -8,8 +8,6 @@ I am **Geb**, I like to use discord and I sometimes play games. I mainly code in
 
 ![Profile Views](https://gpvc.arturio.dev/ItzGeb)
 
-[![Geb's Stats](https://github-readme-stats.vercel.app/api?username=Geb420&show_icons=true&theme=dracula)](https://github.com/Geb420/github-readme-stats)
-
 ---
 
 ## Languages I Use <img src= "https://cdn.discordapp.com/emojis/894176437697908776.png?size=80" alt='typing' width="20px">
