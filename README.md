@@ -1,8 +1,4 @@
-### Geb <img src= "https://cdn.discordapp.com/emojis/786032669380313088.png?size=80" alt='wave' width="20px">
-
-I am **Geb**, I like to use discord and I sometimes play games. I mainly code in **Python**, however I sometimes use **JavaScript**.
-
----
+### Geb <img src= "https://cdn.discordapp.com/emojis/786032669380313088.png?size=65" alt='wave' width="20px">
 
 ## Me <img src= "https://cdn.discordapp.com/emojis/894175687878017055.png?size=80" alt='stats' width="20px">
 
