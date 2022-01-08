@@ -1,4 +1,4 @@
-<p align="center"> ## Geb
+<p align="center"> Geb
 <p align="center"> Python dev
 
 
