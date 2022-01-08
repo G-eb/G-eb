@@ -1,8 +1,8 @@
-## Geb
-Python dev
+<p align="center"> ## Geb
+<p align="center"> Python dev
 
 
-## Me <img src= "https://cdn.discordapp.com/emojis/894175687878017055.png?size=80" alt='stats' width="20px">
+<p align="center" ## Me <img src= "https://cdn.discordapp.com/emojis/894175687878017055.png?size=80" alt='stats' width="20px">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gebwyd" alt="Profile Views" /> </p>
 
