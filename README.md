@@ -9,8 +9,3 @@
        </a>
 </p>
 
-<p align="center">
-  <a href="https://discord.com/users/1034247505006829650">
-     <img src="https://discord.c99.nl/widget/theme-4/1034247505006829650.png" alt="stabber#0666 ( 1034247505006829650 )"/>
-       </a>
-</p>
